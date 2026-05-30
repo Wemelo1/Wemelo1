@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @Wemelo1
-- 👀 I’m interested in web3,crypto,airdrop,testnet.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on test project.
-- 📫 How to reach me @mise_prom for twitter, @wemelo for telegram.
+- 👋 Hi, I’m @Wemelo1, an AI/LLM Engineer specializing in building 
+intelligent chatbots, RAG systems, and AI-powered web 
+applications using Python, LangChain, and Streamlit.
+- What I can build for you:
+✅ Custom AI chatbots for your business
+✅ PDF/document Q&A systems
+✅ AI agents that search the web and use tools
+✅ LLM-powered web applications
+✅ Study assistants and educational AI tools
+
+- I've built and deployed multiple AI applications including 
+a JAMB/WAEC study tutor and a multi-persona AI assistant — 
+both live on the internet.
+- 📫 How to reach me @Pr0M_1se for twitter, @Pr0_M1se for telegram.
+- I deliver clean, working code with clear documentation.
+Fast turnaround. Professional communication.
 - 😄 Pronouns: he,him,his
 - ⚡ Fun fact: i am single 
 
